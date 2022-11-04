@@ -1,0 +1,16 @@
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\bin\BNB\Debug\net5.0\Codechallenge.exe
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\bin\BNB\Debug\net5.0\Codechallenge.deps.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\bin\BNB\Debug\net5.0\Codechallenge.runtimeconfig.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\bin\BNB\Debug\net5.0\Codechallenge.runtimeconfig.dev.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\bin\BNB\Debug\net5.0\Codechallenge.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\bin\BNB\Debug\net5.0\ref\Codechallenge.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\bin\BNB\Debug\net5.0\Codechallenge.pdb
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\obj\BNB\Debug\net5.0\Codechallenge.csprojAssemblyReference.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\obj\BNB\Debug\net5.0\Codechallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\obj\BNB\Debug\net5.0\Codechallenge.AssemblyInfoInputs.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\obj\BNB\Debug\net5.0\Codechallenge.AssemblyInfo.cs
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\obj\BNB\Debug\net5.0\Codechallenge.csproj.CoreCompileInputs.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\obj\BNB\Debug\net5.0\Codechallenge.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\obj\BNB\Debug\net5.0\ref\Codechallenge.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\obj\BNB\Debug\net5.0\Codechallenge.pdb
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Codechallenge\obj\BNB\Debug\net5.0\Codechallenge.genruntimeconfig.cache
